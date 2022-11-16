@@ -47,3 +47,19 @@ For the presentation, I focus on the journey of exploring the influence of diffe
 
 Afterwards, I have used histogram, scatter plot, count plot, heatmap and box plot to dig deeper on the relationship between my variables.
 
+## Requirements
+
+1. Jupyter Notebook
+2. Pandas
+3. Numpy
+4. matplotlib
+5. seaborn
+
+## Installation
+
+To get the Jupyter Notebook running, execute the following in the command line and select Part_I_exploration_for_ProsperLoan.ipynb or to see the slide dec select Part_II_slide_deck_for_ProsperLoan.ipynb from the Jupyter Notebook dashboard.
+
+$ git clone  git clone https://github.com/mzbekele/Prosper-Loan-Data-Analysis.git
+$ cd Prosper-Loan-Data-Analysis
+$ jupyter notebook
+
